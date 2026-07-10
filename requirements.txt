@@ -2,7 +2,7 @@ Flask==3.0.3
 gunicorn==22.0.0
 python-dotenv==1.0.1
 requests==2.32.3
-ibm-watsonx-ai==1.5.14
+ibm-watsonx-ai
 langchain==0.2.12
 langchain-community==0.2.11
 langchain-ibm==0.1.11
